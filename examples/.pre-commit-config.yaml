@@ -1,0 +1,4 @@
+- repo: https://github.com/sanmai-NL/pre-commit-hooks_R.git
+  sha: 0.1.0
+  hooks:
+  - id: lintr

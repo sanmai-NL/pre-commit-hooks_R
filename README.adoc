@@ -1,0 +1,5 @@
+= https://pre-commit.com/[Yelp pre-commit hook] for R code
+This project helps you do automatic QA on your R code. Slip-ups and other issues will affect your code quality less, and you will be able to spend less time on manual formatting and testing while maintaining quality.
+
+== To use
+Add a file such as link:examples/[`examples/`] to the root of your R project (e.g., package) within a Git repository.

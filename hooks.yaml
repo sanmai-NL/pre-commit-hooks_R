@@ -1,0 +1,6 @@
+-   id: lintr
+    name: 'lintr'
+    entry: 'bin/run_lintr_on_file.R'
+    files: '\.R$'
+    language: 'script'
+    description: 'Lints R code with `lintr`. '
